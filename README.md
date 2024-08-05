@@ -5,3 +5,6 @@
 
 
 #This is how I did it down below
+![Screenshot from 2024-08-05 15-57-02](https://github.com/user-attachments/assets/09ed2fa8-f27d-4343-81fd-70db4bd16386)
+
+![Screenshot from 2024-08-05 15-56-22](https://github.com/user-attachments/assets/d02c8df3-e8d7-4af5-9e70-dde754675000)
