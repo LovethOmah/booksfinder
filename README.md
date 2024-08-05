@@ -10,6 +10,6 @@
 ![Screenshot from 2024-08-05 15-56-22](https://github.com/user-attachments/assets/d02c8df3-e8d7-4af5-9e70-dde754675000)
 
 # The source codes to use down below
-[github.com/LovetOmah/booksfinder](README.md)
+[github.com/LovethOmah/booksfinder](README.md)
 
-[github.com/monyslim/designo-website](GitHubRepo)
+[github.com/monyslim/designo-website.git](GitHubRepo)
