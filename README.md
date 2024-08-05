@@ -12,4 +12,4 @@
 # The source codes to use down below
 [github.com/LovethOmah/booksfinder](README.md)
 
-[htps://github.com/monyslim/designo-website]
+[https://github.com/monyslim/designo-website]
